@@ -2,7 +2,7 @@
 software analysis and test assignment 2 
 
 
-DZ1933019 刘旭同  
+## DZ1933019 刘旭同  
 把.c文件转换成llvm的中间表示:   
 > $ clang -S -emit-llvm example.c -o example.ll  
 
